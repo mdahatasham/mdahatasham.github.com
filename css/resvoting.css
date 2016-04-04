@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#main_row{
+   
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: whitesmoke;
+    margin-top: 150px;
+    border:1px solid gray;
+}
+#banar{
+     position: fixed;
+     width: 100% ;
+     z-index:99;
+    background-color:black;
+    border: 2px solid whitesmoke;
+    
+    height: 100px;
+   
+    
+}
+#nav{
+   top: 90px; 
+   position: fixed;
+   width: 100%;
+   z-index: 9;
+  
+  
+}
+#menu{
+    background-color:black;
+   display: block;
+   
+}
+ul#menu a{
+    width:150px;
+    text-align: center;
+}
+#logo1{
+   
+    margin-top: 10px;
+    margin-left: 15px;
+    background-image: url("../image/imagesere.jpg");
+    width:90px;
+    height: 70px;
+    border-radius: 30px;
+    
+}
+#logo{
+    color:white;
+}
+#btn{
+    width:150px;
+    text-decoration: none;
+}
+#submit{
+   width:150px;
+   background-color: cadetblue;
+}
+#footer-text{
+    text-align:center;
+    background-color: black;
+}
+
